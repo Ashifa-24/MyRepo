@@ -1,4 +1,4 @@
-# Hi, I'm Ashifa 👋
+# Hi, I'm  Jainambu Ashifa 👋
 ### B.Sc Computer Science Student | ZHC College
 
 🎓 Currently studying B.Sc CS at ZHC College, Ilayangudi.
