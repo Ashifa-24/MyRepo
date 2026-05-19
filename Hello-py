@@ -1,0 +1,15 @@
+# My First Python Program on GitHub 🚀
+# Created by: Jainambu Ashifa | B.Sc CS, ZHC College
+
+print("Hello, World!")
+print("I'm Ashifa from ZHC College, Ilayangudi")
+print("This is my first code on GitHub")
+print("Goal: Become a Software Developer in 2026 💻")
+
+name = "Ashifa"
+college = "ZHC"
+year = 2026
+
+print(f"\nName: {name}")
+print(f"College: {college}")
+print(f"Developer by: {year}")
