@@ -7,5 +7,4 @@
 📫 Reach me: ashijainambu24@gmail.com
 
 
-⭐ Thanks for visiting my profile!# MyRepo
-My First GitHub Project. Learning to code 
+⭐ Thanks for visiting my profile!
